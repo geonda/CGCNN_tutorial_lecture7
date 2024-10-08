@@ -1,4 +1,4 @@
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geonda/CGCNN_tutorial_lecture7.git/HEAD)
 
 ## The hands-on part for the lecture 7 of intro to materials informatics. 
 ---
