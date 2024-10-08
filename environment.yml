@@ -1,4 +1,4 @@
-name: cgcnn
+name: gnn
 channels:
   - pytorch
   - conda-forge
