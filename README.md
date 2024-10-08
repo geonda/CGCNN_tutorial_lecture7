@@ -1,10 +1,9 @@
 
 
-## The hands-on part for the lecture 7 of intro materials informatics. 
+## The hands-on part for the lecture 7 of intro to materials informatics. 
 ---
-Links: 
-This CGCNN tutorial (modified version of https://github.com/Diego-2504/CGCNN_tutorial)
-originally based on the work of Tian Xie (https://github.com/txie-93) https://arxiv.org/abs/1710.10324
+
+This CGCNN tutorial is a modified version of the original tutorial available [here](https://github.com/Diego-2504/CGCNN_tutorial). It is primarily based on the research conducted by T. Xie and J. Grossman. Original implementaioncan be found [here](https://github.com/txie-93/cgcnn) and detailed in the paper titled ["Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties"](https://arxiv.org/abs/1710.10324).
 
 ### 1. Crystal_graphs
 This jupyter notebook includes most of the scripts that come in the repository, that's why I divided it into 3 parts:
