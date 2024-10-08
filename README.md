@@ -1,8 +1,10 @@
 
 
-The hands-on part for the lecture 7 of intro materials informatics. 
-
-# CGCNN tutorial (modified version of https://github.com/Diego-2504/CGCNN_tutorial) originally based on the work of Tian Xie (https://github.com/txie-93) https://arxiv.org/abs/1710.10324
+## The hands-on part for the lecture 7 of intro materials informatics. 
+---
+Links: 
+This CGCNN tutorial (modified version of https://github.com/Diego-2504/CGCNN_tutorial)
+originally based on the work of Tian Xie (https://github.com/txie-93) https://arxiv.org/abs/1710.10324
 
 ### 1. Crystal_graphs
 This jupyter notebook includes most of the scripts that come in the repository, that's why I divided it into 3 parts:
